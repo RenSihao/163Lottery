@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>icon</key>
+			<string>MoreMessage@2x</string>
+			<key>title</key>
+			<string>使用兑换码</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>icon</key>
+			<string>MorePush@2x</string>
+			<key>title</key>
+			<string>推送和提醒</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>more_homeshake@2x</string>
+			<key>title</key>
+			<string>摇一摇机选</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>sound_Effect@2x</string>
+			<key>title</key>
+			<string>声音效果</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>More_QuanZi_NetFlowSwitchImage@2x</string>
+			<key>title</key>
+			<string>圈子近Wifi加载图片</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>icon</key>
+			<string>MoreShare@2x</string>
+			<key>title</key>
+			<string>推荐给朋友</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>MoreNetease@2x</string>
+			<key>title</key>
+			<string>产品推荐</string>
+		</dict>
+		<dict>
+			<key>icon</key>
+			<string>MoreAbout@2x</string>
+			<key>title</key>
+			<string>关于</string>
+		</dict>
+	</array>
+</array>
+</plist>
